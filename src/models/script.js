@@ -1,5 +1,5 @@
 let user = {
-  id: 1,
-  name: "Lorena Melo",
-  email: "lorena.melo@example.com"
-};
+    id: 1,
+    name: "Lmelo",
+    email: "lmelo@example.com"
+}; 
